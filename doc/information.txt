@@ -2,3 +2,4 @@ qq:1318699951
 addr:大兴区
 job:java
 学历：本科
+company:enci
